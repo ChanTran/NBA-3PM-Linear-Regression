@@ -11,6 +11,15 @@ You can change which variable is used for the prediction by using any of the col
 
 **It's recommended to use a player with around 10+ seasons under their belt so there's more data for the model to train with**
 
+# Required Libraries
+
+* Pandas - allowing us to import/setup data
+* ○	Numpy - for arrays
+* ○	Matplotlib - to plot the points on a graph
+* ○	Sklearn - to create and train the model for predictions
+* URLopen, URLlib3, Selenium, Webdriver-manager to scrape the data (BeautifulSoup couldn't find the div containing the tables needed)
+* Chrome browser
+
 # Screenshots (James Harden used as an example)
 
 ## Simple Plot
