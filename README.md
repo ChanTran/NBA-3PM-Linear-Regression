@@ -14,9 +14,9 @@ You can change which variable is used for the prediction by using any of the col
 # Required Libraries
 
 * Pandas - allowing us to import/setup data
-* ○	Numpy - for arrays
-* ○	Matplotlib - to plot the points on a graph
-* ○	Sklearn - to create and train the model for predictions
+* Numpy - for arrays
+* Matplotlib - to plot the points on a graph
+* Sklearn - to create and train the model for predictions
 * URLopen, URLlib3, Selenium, Webdriver-manager to scrape the data (BeautifulSoup couldn't find the div containing the tables needed)
 * Chrome browser
 
